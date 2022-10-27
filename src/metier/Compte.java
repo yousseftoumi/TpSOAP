@@ -1,8 +1,9 @@
 package metier;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Date;
 
-
+@XmlRootElement
 public class Compte {
 
     public Long code;
@@ -14,31 +15,5 @@ public class Compte {
         this.solde = solde;
         this.dateDeCreation = dateDeCreation;
     }
-
-//    public Compte() {
-//    }
-//
-//    public Long getCode() {
-//        return code;
-//    }
-//
-//    public void setCode(Long code) {
-//        this.code = code;
-//    }
-//
-//    public Double getSolde() {
-//        return solde;
-//    }
-//
-//    public void setSolde(Double solde) {
-//        this.solde = solde;
-//    }
-//
-//    public Date getDateDeCreation() {
-//        return dateDeCreation;
-//    }
-//
-//    public void setDateDeCreation(Date dateDeCreation) {
-//        this.dateDeCreation = dateDeCreation;
-//    }
+    public Compte(){}
 }
