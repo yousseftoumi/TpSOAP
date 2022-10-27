@@ -1,7 +1,7 @@
 package ws;
 
-import metier.Compte;
 
+import metier.Compte;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;

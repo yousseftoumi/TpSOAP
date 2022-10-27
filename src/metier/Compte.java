@@ -15,30 +15,30 @@ public class Compte {
         this.dateDeCreation = dateDeCreation;
     }
 
-    public Compte() {
-    }
-
-    public Long getCode() {
-        return code;
-    }
-
-    public void setCode(Long code) {
-        this.code = code;
-    }
-
-    public Double getSolde() {
-        return solde;
-    }
-
-    public void setSolde(Double solde) {
-        this.solde = solde;
-    }
-
-    public Date getDateDeCreation() {
-        return dateDeCreation;
-    }
-
-    public void setDateDeCreation(Date dateDeCreation) {
-        this.dateDeCreation = dateDeCreation;
-    }
+//    public Compte() {
+//    }
+//
+//    public Long getCode() {
+//        return code;
+//    }
+//
+//    public void setCode(Long code) {
+//        this.code = code;
+//    }
+//
+//    public Double getSolde() {
+//        return solde;
+//    }
+//
+//    public void setSolde(Double solde) {
+//        this.solde = solde;
+//    }
+//
+//    public Date getDateDeCreation() {
+//        return dateDeCreation;
+//    }
+//
+//    public void setDateDeCreation(Date dateDeCreation) {
+//        this.dateDeCreation = dateDeCreation;
+//    }
 }
