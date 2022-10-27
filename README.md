@@ -6,24 +6,24 @@ J'ai découvert une extension dans Chrome Extension Store qui m'a permis de test
 
 ## L'ajout de mon Web Service en utilisant le lien de son WSDL 
 
-![](screenshots/Screen Shot 2022-10-27 at 21.44.19.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2021.44.19.png)
 
 ## La méthode listComptes
 
-![](screenshots/Screen Shot 2022-10-27 at 21.57.26.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2021.57.26.png)
 
 ## La méthode getCompte (Request)
 
-![](screenshots/Screen Shot 2022-10-27 at 21.45.41.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2021.45.41.png)
 
 ## La méthode getCompte (Response)
 
-![](screenshots/Screen Shot 2022-10-27 at 21.46.13.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2021.46.13.png)
 
 ## La méthode de conversion (Request)
 
-![](screenshots/Screen Shot 2022-10-27 at 22.06.46.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2022.06.46.png)
 
 ## La méthode de conversion (Response)
 
-![](screenshots/Screen Shot 2022-10-27 at 22.06.55.png)
+![](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2022.06.55.png)
