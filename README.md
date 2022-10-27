@@ -2,7 +2,7 @@
 J'ai découvert une extension dans Chrome Extension Store qui m'a permis de tester mon web service comme SoapUI
 (Boomerang - SOAP & REST Client)
 
-![Boomerang](screenshots/Screen Shot 2022-10-27 at 22.07.33.png)
+![Boomerang](https://github.com/yousseftoumi/TpSOAP/blob/master/screenshots/Screen%20Shot%202022-10-27%20at%2022.07.33.png)
 
 ## L'ajout de mon Web Service en utilisant le lien de son WSDL 
 
